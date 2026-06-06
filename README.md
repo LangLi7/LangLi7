@@ -10,7 +10,7 @@ Hauptsächlich treibt mich Softwareentwicklung an, mit einem starken Fokus auf *
 Ich baue Dinge die ich selbst brauche – und die niemand anderem gehören als mir.  
 Meistens läuft irgendwas im Hintergrund auf einem Linux-Server den ich selbst aufgesetzt habe.
 
-Aktuelles Hauptprojekt: ein **persönliches AI-System** das lokal läuft, mich kennt und mit der Zeit besser wird. Kein Cloud-Abo, keine fremden Server, keine Datenlecks – einfach meins.
+Aktuelles Hauptprojekt: ein **persönliches AI-System** das lokal läuft, mich kennt und mit der Zeit besser wird. Kein Cloud-Abo, volles Datenkontrolle – einfach meins.
 
 ---
 
